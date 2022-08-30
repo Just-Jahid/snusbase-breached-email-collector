@@ -5,7 +5,7 @@ With a list of email, check for number of breach available for each gmail and sa
 1. run this command in terminal: pip3 install -r requirements.txt
 
 2. run this command in terminal: playwright install
-3. open the Email_Breach_finer.py and replace username and password with your snunsbase login
+3. open the Email_Breach_finer.py and replace username and password with your snusbase login
 4. provide email addresses that you want to check breach for in the gmail.txt file
 5. and then just run python3 Email_Breach_finer.py 
 <h3>For GUI</h3>

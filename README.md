@@ -12,5 +12,5 @@ With a list of email, check for number of breach available for each gmail and sa
 7. for gui view just open Email_Breach_finer.py and place this line : headless=False, slow_mo=100 in between the brackets () of 9th line in the code .
 
 <h3>Finishing</h3>
-Founded breached mails will be saved in Breached.txt file with number of breach found on the data base.
+Founded breached mails will be saved in Breach.txt file with the number of breach found on the database.
 <h3 align=center>Thats it! Ready to fly<h3>
